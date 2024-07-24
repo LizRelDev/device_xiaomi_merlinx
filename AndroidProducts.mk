@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lineage_merlin.mk
+   $(LOCAL_DIR)/qassa_merlin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_merlin-user \
-    lineage_merlin-userdebug \
-    lineage_merlin-eng
+    qassa_merlin-user \
+    qassa_merlin-userdebug \
+    qassa_merlin-eng
