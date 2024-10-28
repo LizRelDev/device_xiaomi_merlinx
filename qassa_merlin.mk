@@ -17,13 +17,14 @@
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 2340
+TARGET_BOOT_ANIMATION_RES := 720
 
-# QASSA OFFICIAL stuff
+# QASSA stuff
 QASSA_MAINTAINER := LizRelDev
 TARGET_GAPPS_ARCH := arm64
+TARGET_WITH_GAPPS := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
-USE_PIXEL_CHARGER := true
-TARGET_BOOT_ANIMATION_RES := 720
+USE_PIXEL_CHARGING := true
 
 # Inherit from merlin device makefile
 $(call inherit-product, device/xiaomi/merlin/device.mk)
