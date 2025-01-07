@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="xd_device_name_summary">Xiaomi Redmi 4X 4G</string>
+    <string name="xd_device_name_summary">Redmi Note 9 (merlin)</string>
     <string name="xd_chipset_type_summary">MediaTek Helio G85</string>
     <string name="xd_gpu_summary">Mali-G52 MC2</string>
     <string name="xd_camera_mp_summary">48/8 MP AI QUAD CAMERA</string>
